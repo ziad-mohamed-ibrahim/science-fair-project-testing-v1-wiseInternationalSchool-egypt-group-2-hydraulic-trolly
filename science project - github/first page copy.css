@@ -1,0 +1,17 @@
+#title {text-align: center; color: rgb(241, 241, 245); font-family: tf2;}
+body{background-color: rgb(17, 19, 164);}
+@font-face {
+    font-family: tf2;
+    src: url(fonts/tf2build.ttf);
+}
+#progress{color: red; text-align: center;}
+.progress{border:  2px; border-radius: 10px; display: block; border-color: rgb(89, 89, 89); margin: 0 auto; padding: 20px 0;
+background-color: #ffffff50; border-style: double;}
+#progress:hover{color: blue;}
+table {background-color: rgba(255, 255, 255, 0.411); color: rgb(0, 0, 0); padding: 10px 0;border-style: double; margin-left: 30px;}
+
+div{text-align: center;border:  2px; border-radius: 10px; display: block; border-color: rgb(75, 75, 75); margin: 0 auto; padding: 20px 0;
+background: linear-gradient(to bottom left, #777dd1, #d17777); border-style: double;margin-left: 150px; margin-right: 150px;
+margin-top: 30px; margin-bottom: 30px;}
+#team {color: rgb(255, 0, 0); text-align: center; font-family: tf2; transform: scale(1.6);}
+.person:hover {color: red;}
